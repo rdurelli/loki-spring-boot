@@ -1,0 +1,11 @@
+2024-03-17 15:30:59 [main] INFO  c.example.demolog.DemologApplication - Starting DemologApplication using Java 21.0.2 with PID 15933 (/Users/rafaeldurelli/Documents/frequencia/spring-boot-log-local/demolog/target/classes started by rafaeldurelli in /Users/rafaeldurelli/Documents/frequencia/spring-boot-log-local/demolog)
+2024-03-17 15:30:59 [main] DEBUG c.example.demolog.DemologApplication - Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-03-17 15:30:59 [main] INFO  c.example.demolog.DemologApplication - No active profile set, falling back to 1 default profile: "default"
+2024-03-17 15:31:00 [main] INFO  c.example.demolog.DemologApplication - Started DemologApplication in 0.607 seconds (process running for 1.003)
+2024-03-17 15:31:00 [main] INFO  c.example.demolog.DemologApplication - This is information
+2024-03-17 15:31:00 [main] DEBUG c.example.demolog.DemologApplication - This is debug
+2024-03-17 15:31:00 [main] ERROR c.example.demolog.DemologApplication - This is error
+2024-03-17 15:40:16 [main] INFO  c.e.demolog.DemologApplicationTests - Starting DemologApplicationTests using Java 21.0.2 with PID 17960 (started by rafaeldurelli in /Users/rafaeldurelli/Documents/frequencia/spring-boot-log-local/demolog)
+2024-03-17 15:40:16 [main] DEBUG c.e.demolog.DemologApplicationTests - Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-03-17 15:40:16 [main] INFO  c.e.demolog.DemologApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-03-17 15:40:17 [main] INFO  c.e.demolog.DemologApplicationTests - Started DemologApplicationTests in 0.577 seconds (process running for 0.999)
