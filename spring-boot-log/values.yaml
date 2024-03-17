@@ -8,7 +8,7 @@ image:
   repository: durellirsd/spring-boot-log
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v05"
+  tag: "v10"
 
 imagePullSecrets: []
 nameOverride: ""
